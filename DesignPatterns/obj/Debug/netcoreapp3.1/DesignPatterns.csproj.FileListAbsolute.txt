@@ -1,0 +1,13 @@
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.deps.json
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.runtimeconfig.json
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.runtimeconfig.dev.json
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.dll
+/home/matheus/repos/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.pdb
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csprojAssemblyReference.cache
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.AssemblyInfoInputs.cache
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.AssemblyInfo.cs
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.dll
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.pdb
+/home/matheus/repos/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.genruntimeconfig.cache
